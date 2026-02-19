@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bemol Digital
+- 🔭 I currently work as a React development specialist.
 - 🌱 I’m currently learning TYPESCRIPT, NODE, REACT, NEXTJS, KOTLIN, ANDROID, DART, FLUTTER...
 - 💬 Ask me about When will it start to rain?
 - 📫 How to reach me: mathews.mw@gmail.com;
